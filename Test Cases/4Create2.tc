@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4Create2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4520e4a7-0d6b-4bc9-afb5-da317f75a6f5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b535158f-0c80-4325-8c51-40fc972a8b2f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Texr from  alert box</description>
+      <id>b535158f-0c80-4325-8c51-40fc972a8b2f</id>
+      <masked>false</masked>
+      <name>alertText</name>
+   </variable>
+</TestCaseEntity>

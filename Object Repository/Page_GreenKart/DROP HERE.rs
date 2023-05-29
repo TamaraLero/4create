@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DROP HERE</name>
+   <tag></tag>
+   <elementGuidId>eaa933f2-805c-407b-8a29-84945c827e73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#droppable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='droppable']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>60b77bfd-75bb-4a74-92a4-97f4145cce73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>droppable</value>
+      <webElementGuid>a546cfd0-b184-4e2e-99e0-f3c2703ffbe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget-header ui-droppable</value>
+      <webElementGuid>780832aa-b7ff-472e-8a98-19c7a4a27081</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            DROP HERE!
+          </value>
+      <webElementGuid>34c7c0bd-09a2-4596-b62f-dea4c9e1ff0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;droppable&quot;)</value>
+      <webElementGuid>4aff201a-cb82-4423-945d-57165cf51626</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='droppable']</value>
+      <webElementGuid>66eae941-8f21-4e9e-90d7-60049332238f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-drag-drop-thumbnail']/div[2]</value>
+      <webElementGuid>645605e1-b6c9-42ef-9525-5b50b585351d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DRAG ME TO MY TARGET!'])[1]/following::div[1]</value>
+      <webElementGuid>6f08ec6b-c6c9-4a6d-b777-06dc60f188bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Key to Success is to take massive ACTION!'])[1]/following::div[4]</value>
+      <webElementGuid>e379f85e-78da-4a2e-a56a-dc44c6ae1c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Double Click Me!'])[1]/preceding::div[1]</value>
+      <webElementGuid>f75ca6d9-43a1-47fb-911c-54aac4d36290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>28a42be1-5b4a-4d9f-97ee-1b8fb4dbc786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'droppable' and (text() = '
+            DROP HERE!
+          ' or . = '
+            DROP HERE!
+          ')]</value>
+      <webElementGuid>5bbe1108-4003-4fdd-91ab-9b5f5e3e86b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

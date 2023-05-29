@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DRAG ME TO MY TARGET</name>
+   <tag></tag>
+   <elementGuidId>d9768215-43d6-4261-a53a-84084930b066</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#draggable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='draggable']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53adf6ee-4792-47eb-8bb3-bc73cb408863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>draggable</value>
+      <webElementGuid>08179040-4f2d-4b09-96ff-8a1a40374351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget-content ui-draggable ui-draggable-handle</value>
+      <webElementGuid>d1e37cc0-5c93-42a8-bbe9-b8e21d8fa78d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            DRAG ME TO MY TARGET!
+          </value>
+      <webElementGuid>fc59ecc0-4453-4173-88bb-16f573e58ea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;draggable&quot;)</value>
+      <webElementGuid>dd0bc8e1-1c60-4700-b513-606c64d0d841</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='draggable']</value>
+      <webElementGuid>d61b5d76-226f-4f5c-ab2b-2b1b92087c43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-drag-drop-thumbnail']/div</value>
+      <webElementGuid>77c484c7-4373-41b2-91ad-c53dafabb8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Key to Success is to take massive ACTION!'])[1]/following::div[3]</value>
+      <webElementGuid>a7b4a024-3e16-48ec-9a73-98f5bde08bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WebdriverUniversity.com (Actions)'])[1]/following::div[5]</value>
+      <webElementGuid>324b5b1f-f109-4de7-9945-0d157e3ff179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DROP HERE!'])[1]/preceding::div[1]</value>
+      <webElementGuid>bae5a605-daf3-413e-b2c0-152c15708038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>c5878f76-70e1-4fba-9c37-e41a3a33f850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'draggable' and (text() = '
+            DRAG ME TO MY TARGET!
+          ' or . = '
+            DRAG ME TO MY TARGET!
+          ')]</value>
+      <webElementGuid>fab92275-6eff-46af-8f2c-55904b067b43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

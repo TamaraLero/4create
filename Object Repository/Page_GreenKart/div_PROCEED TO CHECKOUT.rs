@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PROCEED TO CHECKOUT</name>
+   <tag></tag>
+   <elementGuidId>5bfb7539-5a32-4511-a12b-0c1d4b9353ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.action-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/div/div[3]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>66c90d6f-298e-41d7-9f6b-340fcd2f1e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-block</value>
+      <webElementGuid>21303460-4d64-4f8b-a997-4e1be3c043b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PROCEED TO CHECKOUT</value>
+      <webElementGuid>31be47fd-4772-4ec9-8c0a-ba098f77c586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/header[1]/div[@class=&quot;container&quot;]/div[@class=&quot;cart&quot;]/div[@class=&quot;cart-preview active&quot;]/div[@class=&quot;action-block&quot;]</value>
+      <webElementGuid>9f8526a7-fc53-432f-b088-f5caea1942d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/div/div[3]/div[2]/div[2]</value>
+      <webElementGuid>ee6b3ac1-9f05-4900-8d91-4df5d29b5e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/following::div[10]</value>
+      <webElementGuid>51fd3633-708f-4132-b70c-94177c949974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/following::div[10]</value>
+      <webElementGuid>0f0d4093-4b2d-4eee-bac0-397a9e8394c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brocolli - 1 Kg'])[1]/preceding::div[2]</value>
+      <webElementGuid>96b7d88e-b2a7-4b92-b26f-36508d49f2c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]</value>
+      <webElementGuid>c32e9bed-ad08-4dd2-a1a5-a29b565ca95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PROCEED TO CHECKOUT' or . = 'PROCEED TO CHECKOUT')]</value>
+      <webElementGuid>710aa1d6-d481-481a-9a11-61af55e50e58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

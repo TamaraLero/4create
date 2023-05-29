@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hover Over Me First</name>
+   <tag></tag>
+   <elementGuidId>996f7c6d-1cba-4591-a20e-de5e8411ad2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.dropbtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div-hover']/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3d9b72b7-c5c3-4d2c-98af-2ca49902a475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropbtn</value>
+      <webElementGuid>f00bf8b1-f956-400e-9609-21cef4cdc8ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hover Over Me First!</value>
+      <webElementGuid>3b5f8270-0eae-4b41-a3c3-c85ca3259291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div-hover&quot;)/div[@class=&quot;dropdown hover&quot;]/button[@class=&quot;dropbtn&quot;]</value>
+      <webElementGuid>0c29a215-a4bd-4adc-a317-f01df96089bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-hover']/div/button</value>
+      <webElementGuid>8fc405ad-c2a7-4949-bfc6-73dfa81aa25f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Double Click Me!'])[1]/following::button[1]</value>
+      <webElementGuid>1dca1cea-40e8-43d8-a8b2-d6dda1b60805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DROP HERE!'])[1]/following::button[1]</value>
+      <webElementGuid>cbdc1729-b183-45fc-971d-4ac3b15d56db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hover Over Me Second!'])[1]/preceding::button[1]</value>
+      <webElementGuid>2207fb80-eee2-4872-945b-bd7efedaa182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hover Over Me Third!'])[1]/preceding::button[2]</value>
+      <webElementGuid>e526748a-074f-4611-99aa-9c42c31ee750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hover Over Me First!']/parent::*</value>
+      <webElementGuid>1f7ddc2f-d493-43e6-b31a-9f9f52c8ba1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button</value>
+      <webElementGuid>ae2068dc-05c5-4db1-b268-c310f2764296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Hover Over Me First!' or . = 'Hover Over Me First!')]</value>
+      <webElementGuid>4822367a-2db1-45c7-83f6-51a46afce03c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

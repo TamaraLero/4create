@@ -1,0 +1,45 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+4Create,Chrome 113.0.0.0,,,2023-05-29 02:06:55,2023-05-29 02:07:28,32.446s,PASSED
+,,,,,,,
+Test Cases/4Create2,Chrome 113.0.0.0,,,2023-05-29 02:06:55,2023-05-29 02:07:28,32.032s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-29 02:06:56,2023-05-29 02:06:59,3.052s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-29 02:06:59,2023-05-29 02:07:00,0.168s,PASSED
+"navigateToUrl(""https://rahulshettyacademy.com/seleniumPractise/#/"")",Chrome 113.0.0.0,,,2023-05-29 02:07:00,2023-05-29 02:07:01,1.509s,PASSED
+for (def index : (0..3)),Chrome 113.0.0.0,,,2023-05-29 02:07:01,2023-05-29 02:07:03,2.340s,PASSED
+"click(findTestObject(""Page_GreenKart/button_ADD TO CART Carrot""))",Chrome 113.0.0.0,,,2023-05-29 02:07:03,2023-05-29 02:07:04,0.567s,PASSED
+"click(findTestObject(""Page_GreenKart/button_ADD TO CART Tomato""))",Chrome 113.0.0.0,,,2023-05-29 02:07:04,2023-05-29 02:07:04,0.541s,PASSED
+"click(findTestObject(""Page_GreenKart/button_ADD TO CART Potato""))",Chrome 113.0.0.0,,,2023-05-29 02:07:04,2023-05-29 02:07:05,0.618s,PASSED
+"click(findTestObject(""Page_GreenKart/img Chart""))",Chrome 113.0.0.0,,,2023-05-29 02:07:05,2023-05-29 02:07:06,0.715s,PASSED
+"click(findTestObject(""Page_GreenKart/div_PROCEED TO CHECKOUT""))",Chrome 113.0.0.0,,,2023-05-29 02:07:06,2023-05-29 02:07:06,0.490s,PASSED
+"s = getText(findTestObject(""Page_GreenKart/txt_total amount""))",Chrome 113.0.0.0,,,2023-05-29 02:07:06,2023-05-29 02:07:07,1.046s,PASSED
+"setText(findTestObject(""Page_GreenKart/input_Total_promoCode111""), s)",Chrome 113.0.0.0,,,2023-05-29 02:07:07,2023-05-29 02:07:08,0.815s,PASSED
+"click(findTestObject(""Page_GreenKart/button_Apply""))",Chrome 113.0.0.0,,,2023-05-29 02:07:08,2023-05-29 02:07:09,0.442s,PASSED
+"click(findTestObject(""Page_GreenKart/button_Place Order""))",Chrome 113.0.0.0,,,2023-05-29 02:07:09,2023-05-29 02:07:09,0.557s,PASSED
+"verifyElementHasAttribute(findTestObject(""Page_GreenKart/SelectFromCountry""), ""disabled"", 0)",Chrome 113.0.0.0,,,2023-05-29 02:07:09,2023-05-29 02:07:10,0.554s,PASSED
+"selectOptionByValue(findTestObject(""Page_GreenKart/select_SelectCountry""), ""Algeria"", true)",Chrome 113.0.0.0,,,2023-05-29 02:07:10,2023-05-29 02:07:14,4.348s,PASSED
+"click(findTestObject(""Page_GreenKart/button_Proceed""))",Chrome 113.0.0.0,,,2023-05-29 02:07:14,2023-05-29 02:07:14,0.395s,PASSED
+"click(findTestObject(""Page_GreenKart/input_Choose Country_chkAgree""))",Chrome 113.0.0.0,,,2023-05-29 02:07:14,2023-05-29 02:07:16,1.765s,PASSED
+"click(findTestObject(""Page_GreenKart/button_Proceed""))",Chrome 113.0.0.0,,,2023-05-29 02:07:16,2023-05-29 02:07:17,0.485s,PASSED
+"sendKeys(findTestObject(""Page_GreenKart/logo_greenlogo""), Keys.chord(CONTROL, ""T""))",Chrome 113.0.0.0,,,2023-05-29 02:07:17,2023-05-29 02:07:17,0.587s,PASSED
+"navigateToUrl(""http://www.webdriveruniversity.com/"")",Chrome 113.0.0.0,,,2023-05-29 02:07:17,2023-05-29 02:07:18,0.559s,PASSED
+"scrollToElement(findTestObject(""Page_GreenKart/section_Actions""), 0)",Chrome 113.0.0.0,,,2023-05-29 02:07:18,2023-05-29 02:07:18,0.444s,PASSED
+takeScreenshot(),Chrome 113.0.0.0,,,2023-05-29 02:07:18,2023-05-29 02:07:19,0.476s,PASSED
+"click(findTestObject(""Page_GreenKart/h1_Actions""))",Chrome 113.0.0.0,,,2023-05-29 02:07:19,2023-05-29 02:07:19,0.475s,PASSED
+switchToWindowIndex(0),Chrome 113.0.0.0,,,2023-05-29 02:07:19,2023-05-29 02:07:19,0.079s,PASSED
+takeScreenshot(),Chrome 113.0.0.0,,,2023-05-29 02:07:19,2023-05-29 02:07:20,0.429s,PASSED
+switchToWindowIndex(1),Chrome 113.0.0.0,,,2023-05-29 02:07:20,2023-05-29 02:07:20,0.036s,PASSED
+pageTitle = getWindowTitle(),Chrome 113.0.0.0,,,2023-05-29 02:07:20,2023-05-29 02:07:20,0.042s,PASSED
+"verifyMatch(pageTitle, "".*Actions.*"", true, STOP_ON_FAILURE)",Chrome 113.0.0.0,,,2023-05-29 02:07:20,2023-05-29 02:07:20,0.053s,PASSED
+"dragAndDropToObject(findTestObject(""Page_GreenKart/DRAG ME TO MY TARGET""), findTestObject(""Page_GreenKart/DROP HERE""))",Chrome 113.0.0.0,,,2023-05-29 02:07:20,2023-05-29 02:07:22,1.783s,PASSED
+"verifyElementNotVisible(findTestObject(""Page_GreenKart/Link 1""))",Chrome 113.0.0.0,,,2023-05-29 02:07:22,2023-05-29 02:07:22,0.537s,PASSED
+"mouseOver(findTestObject(""Page_GreenKart/button_Hover Over Me First""))",Chrome 113.0.0.0,,,2023-05-29 02:07:22,2023-05-29 02:07:23,0.561s,PASSED
+"verifyElementVisible(findTestObject(""Page_GreenKart/Link 1""))",Chrome 113.0.0.0,,,2023-05-29 02:07:23,2023-05-29 02:07:23,0.368s,PASSED
+"click(findTestObject(""Page_GreenKart/Link 1""))",Chrome 113.0.0.0,,,2023-05-29 02:07:23,2023-05-29 02:07:24,0.426s,PASSED
+verifyAlertPresent(0),Chrome 113.0.0.0,,,2023-05-29 02:07:24,2023-05-29 02:07:24,0.033s,PASSED
+alertText = getAlertText(),Chrome 113.0.0.0,,,2023-05-29 02:07:24,2023-05-29 02:07:24,0.029s,PASSED
+acceptAlert(),Chrome 113.0.0.0,,,2023-05-29 02:07:24,2023-05-29 02:07:24,0.047s,PASSED
+closeBrowser(),Chrome 113.0.0.0,,,2023-05-29 02:07:24,2023-05-29 02:07:24,0.755s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-29 02:07:24,2023-05-29 02:07:26,1.268s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-29 02:07:26,2023-05-29 02:07:26,0.155s,PASSED
+"navigateToUrl(""http://www.webdriveruniversity.com/Contact-Us/contactus.html"")",Chrome 113.0.0.0,,,2023-05-29 02:07:26,2023-05-29 02:07:27,0.776s,PASSED
+"setText(findTestObject(""Page_GreenKart/textarea_CONTACT US_message""), alertText)",Chrome 113.0.0.0,,,2023-05-29 02:07:27,2023-05-29 02:07:28,0.899s,PASSED

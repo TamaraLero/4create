@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Link 1</name>
+   <tag></tag>
+   <elementGuidId>02354907-16fd-48b6-ae65-eb116a3aa2be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.list-alert</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div-hover']/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dec141a3-0917-46d9-b214-08018e81d729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>0dbfd602-da36-46e0-b58b-1a35acaf71ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-alert</value>
+      <webElementGuid>d02035bd-f626-4bec-adc5-67c27c0683a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Link 1</value>
+      <webElementGuid>3da2db80-e2e3-44b7-97a6-924d7ee586e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div-hover&quot;)/div[@class=&quot;dropdown hover&quot;]/div[@class=&quot;dropdown-content&quot;]/a[@class=&quot;list-alert&quot;]</value>
+      <webElementGuid>a91b70b6-246f-4b06-912e-3c411efeff83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-hover']/div/div/a</value>
+      <webElementGuid>c6fca723-6dba-4fb2-908e-eaf204b32432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Link 1')]</value>
+      <webElementGuid>6241b682-9c15-401e-933b-81cdc022c2a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hover Over Me First!'])[1]/following::a[1]</value>
+      <webElementGuid>f6b47d6d-8f5c-4d09-a807-44c822c4dde0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Double Click Me!'])[1]/following::a[1]</value>
+      <webElementGuid>d5fb87c3-317a-4815-b48e-05cafdff4e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hover Over Me Second!'])[1]/preceding::a[1]</value>
+      <webElementGuid>9065cd8e-fc9c-4eb5-a254-a255a638e392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hover Over Me Third!'])[1]/preceding::a[2]</value>
+      <webElementGuid>0e047a50-782e-4d4c-aade-68fdefea0123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Link 1']/parent::*</value>
+      <webElementGuid>75ac0cd6-14ad-48b1-92fb-0fa69ffb5f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>d50763a5-89b8-4fc6-b8eb-22cca5bf50a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a</value>
+      <webElementGuid>88dfe1c9-d321-4686-be86-e756a5f617a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Link 1' or . = 'Link 1')]</value>
+      <webElementGuid>d7d1201f-4d1d-461f-986f-2e04f82faae0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

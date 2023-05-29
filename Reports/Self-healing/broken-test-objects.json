@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_GreenKart - veg and fruits kart/button_Proceed",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/div/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_GreenKart - veg and fruits kart/button_Proceed_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_GreenKart/input_Choose Country_chkAgree",
+      "brokenLocator": "//input[@type\u003d\u0027text\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_GreenKart/input_Choose Country_chkAgree_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_GreenKart/button_Proceed",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/div/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "button",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_GreenKart/button_Proceed_CSS.png"
+    }
+  ]
+}

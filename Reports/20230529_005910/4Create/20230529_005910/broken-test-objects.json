@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_GreenKart/input_Choose Country_chkAgree",
+      "brokenLocator": "//input[@type\u003d\u0027text\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230529_005910/4Create/20230529_005910/Object Repository/Page_GreenKart/input_Choose Country_chkAgree_position.png"
+    }
+  ]
+}
